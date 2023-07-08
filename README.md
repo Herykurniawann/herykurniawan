@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hery Kurniawan</h1>
 <h3 align="center">A Human Who is Currently Learning Programming</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=herykurniawann" alt="herykurniawann" /></a> </p>
 
 - 🌱 I’m currently learning **Vue.js**
 
