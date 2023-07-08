@@ -2,7 +2,7 @@
 <h3 align="center">A Human Who is Currently Learning Programming</h3>
 
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Vue.js** and **Go**
 
 - ⚡ Fun fact **I Play Genshin Impact**
 
